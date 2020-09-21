@@ -642,7 +642,7 @@ header{
 
 @media(min-width:320px)
 {
-    #heading{margin:25px auto;}
+    #heading{margin:25px 0px 25px 10px; }
     
     .main-nav{width:100%;}
     
@@ -816,6 +816,8 @@ header{
 
 @media(min-width:1025px)
 {
+   
+    
     .submit,.message{
         padding:10px 20px;
     }
