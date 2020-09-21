@@ -642,7 +642,7 @@ header{
 
 @media(min-width:320px)
 {
-    #heading{margin:25px 0px 25px 10px; }
+    #heading{margin:25px 0px 25px 5px; }
     
     .main-nav{width:100%;}
     
