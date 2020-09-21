@@ -107,7 +107,8 @@ header{
 }
 
 .logo{
-   margin-right:10px; 
+   margin-right:10px;
+   
     
 }
 
@@ -687,7 +688,7 @@ header{
          margin:0 auto;
     }
     
-    .user-image{ width:auto;}
+    .user-image{ width:28%;}
     .skills{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}
     .responsibility{
         margin-top:15px;
@@ -808,6 +809,9 @@ header{
     justify-content: center;
     }
     .assign{margin-right:5px;}
+    .logo{
+        width:65px;
+    }
 }
 
 @media(min-width:1025px)
